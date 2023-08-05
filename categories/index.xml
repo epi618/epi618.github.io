@@ -1,13 +1,13 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - Pi_Alpha</title>
+        <title>Categories - Category - PiAlpha</title>
         <link>http://example.org/categories/</link>
-        <description>Categories - Category - Pi_Alpha</description>
+        <description>Categories - Category - PiAlpha</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
     <title>website</title>
     <link>http://example.org/categories/website/</link>
     <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
-    <author>Pi_Alpha</author>
+    <author>PiAlpha</author>
     <guid>http://example.org/categories/website/</guid>
     <description><![CDATA[]]></description>
 </item>
