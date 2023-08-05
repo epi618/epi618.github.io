@@ -3,5 +3,21 @@
         <title>Tags - Tag - EPI</title>
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - EPI</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>post</title>
+    <link>http://example.org/tags/post/</link>
+    <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
+    <author>EPI</author>
+    <guid>http://example.org/tags/post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>test</title>
+    <link>http://example.org/tags/test/</link>
+    <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
+    <author>EPI</author>
+    <guid>http://example.org/tags/test/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
