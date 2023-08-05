@@ -28,7 +28,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "http:\/\/example.org\/posts\/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github\/"
-        },"genre": "posts","keywords": "Ubuntpu, Hugo, Github Pages","wordcount":  1117 ,
+        },"genre": "posts","keywords": "Ubuntu, Hugo, Github Pages","wordcount":  1565 ,
         "url": "http:\/\/example.org\/posts\/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github\/","datePublished": "2023-08-03T22:49:36+08:00","dateModified": "2023-08-05T22:49:32+08:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -102,8 +102,8 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Pi_Alpha</a></span>&nbsp;<span class="post-category">included in <a href="/categories/website/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>website</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2023-08-03">2023-08-03</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;1117 words&nbsp;
-                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;3 minutes&nbsp;</div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2023-08-03">2023-08-03</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;1565 words&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;4 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  data-kept="">
                 <div class="details-summary toc-title">
                     <span>Contents</span>
@@ -124,6 +124,13 @@
       <ul>
         <li><a href="#21创建github-pages">2.1创建Github Pages</a></li>
         <li><a href="#22-发布第一篇测试文章到github-pages">2.2 发布第一篇测试文章到Github Pages</a></li>
+      </ul>
+    </li>
+    <li><a href="#3-给gihub-pages绑定自己购买的域名">3 给Gihub Pages绑定自己购买的域名</a>
+      <ul>
+        <li><a href="#31-购买域名">3.1 购买域名</a></li>
+        <li><a href="#32-在cloudflare设置dns解析">3.2 在Cloudflare设置DNS解析</a></li>
+        <li><a href="#33-在github-pages添加域名">3.3 在Github Pages添加域名</a></li>
       </ul>
     </li>
   </ul>
@@ -180,7 +187,7 @@
 </code></pre></div><p>然后一路回车确定。接着查看生成的公钥，代码如下：</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Bash" data-lang="Bash">cat /home/username/.ssh/id_rsa.pub
 </code></pre></div><p><strong>注意</strong>：代码中的<code>username</code>代表你计算机的用户名。<br>
-复制出现的公钥，粘贴到github里即可。</p>
+复制出现的公钥，粘贴到<em>github</em>-&gt;<em>SSh and GPG keys</em>-&gt;<em>SSH keys</em>里即可。</p>
 <p>然后通过软链接链接你Hugo目录(本文中是<code>my_website</code>)下<code>public</code>文件夹与<code>github仓库</code>。</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Bash" data-lang="Bash"><span class="c1"># delete public</span>
 rm -rf public
@@ -194,6 +201,42 @@ ln -s /home/username/my_website/xxx.github.io /home/my_website/public
 git commit -m “commit”
 git push
 </code></pre></div><p>稍等几分钟后，你就可以通过<code>https://xxx.github.io/</code>来访问你的个人网站。</p>
+<h2 id="3-给gihub-pages绑定自己购买的域名">3 给Gihub Pages绑定自己购买的域名</h2>
+<h3 id="31-购买域名">3.1 购买域名</h3>
+<p>在<a href="www.namesilo.com/" rel="">namesilo</a>购买域名，然后进入依次点击<em>Dashboard</em>-&gt;<em>Active Domains</em>-&gt;<em>Manage</em>。找到自己想要使用的域名，使用Cloudflare的名称服务器，替换原本的<em>NameServers</em>即可。如下图所示。
+<a class="lightgallery" href="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/replace_DNS.png" title="/images/Hugo搭建个人博客/replace_DNS.png" data-thumbnail="/images/Hugo搭建个人博客/replace_DNS.png">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/replace_DNS.png"
+            data-srcset="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/replace_DNS.png, /images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/replace_DNS.png 1.5x, /images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/replace_DNS.png 2x"
+            data-sizes="auto"
+            alt="/images/Hugo搭建个人博客/replace_DNS.png" />
+    </a></p>
+<h3 id="32-在cloudflare设置dns解析">3.2 在Cloudflare设置DNS解析</h3>
+<p>打开Cloudflare,添加你自己的域名过后，点击左侧边栏的<em>DNS</em>，设置解析记录。如下图所示。
+<a class="lightgallery" href="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/Cloudflare_record.png" title="/images/Hugo搭建个人博客/Cloudflare_record.png" data-thumbnail="/images/Hugo搭建个人博客/Cloudflare_record.png">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/Cloudflare_record.png"
+            data-srcset="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/Cloudflare_record.png, /images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/Cloudflare_record.png 1.5x, /images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/Cloudflare_record.png 2x"
+            data-sizes="auto"
+            alt="/images/Hugo搭建个人博客/Cloudflare_record.png" />
+    </a>
+上图中两个A类型的ip是通过命令<code>ping xxx.github.io</code>取得。最后一个CNAME类型，内容就是<code>xxx.github.io</code>。保存即可。</p>
+<h3 id="33-在github-pages添加域名">3.3 在Github Pages添加域名</h3>
+<p>登陆到Gihub托管你个人网页的仓库，然后<em>Add file</em>-&gt;<em>Create new file</em>。如下图所示提交新建文件。
+<a class="lightgallery" href="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/create_cname.png" title="/images/Hugo搭建个人博客/create_cname.png" data-thumbnail="/images/Hugo搭建个人博客/create_cname.png">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/create_cname.png"
+            data-srcset="/images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/create_cname.png, /images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/create_cname.png 1.5x, /images/Hugo%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2/create_cname.png 2x"
+            data-sizes="auto"
+            alt="/images/Hugo搭建个人博客/create_cname.png" />
+    </a>
+当然你也可以在<em>Settings</em>-&gt;<em>Pages</em>-&gt;<em>Custom domain</em>中输入你的域名，查看情况。如没有报错和警告，静等十多二十分钟后。就可以使用自己的域名访问个人网站了。</p>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
@@ -203,13 +246,13 @@ git push
         <div class="post-info-line">
             <div class="post-info-md"></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/" data-title="Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages" data-hashtags="Ubuntpu,Hugo,Github Pages"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/" data-hashtag="Ubuntpu"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/" data-title="Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages"><i class="fab fa-hacker-news fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/" data-title="Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages"><i data-svg-src="https://cdn.jsdelivr.net/npm/simple-icons@7.3.0/icons/line.svg" aria-hidden="true"></i></a></span>
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/" data-title="Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages" data-hashtags="Ubuntu,Hugo,Github Pages"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/" data-hashtag="Ubuntu"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/" data-title="Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages"><i class="fab fa-hacker-news fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/" data-title="Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages"><i data-svg-src="https://cdn.jsdelivr.net/npm/simple-icons@7.3.0/icons/line.svg" aria-hidden="true"></i></a></span>
             </div>
         </div>
     </div>
 
     <div class="post-info-more">
-        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/ubuntpu/">Ubuntpu</a>,&nbsp;<a href="/tags/hugo/">Hugo</a>,&nbsp;<a href="/tags/github-pages/">Github Pages</a></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/ubuntu/">Ubuntu</a>,&nbsp;<a href="/tags/hugo/">Hugo</a>,&nbsp;<a href="/tags/github-pages/">Github Pages</a></section>
         <section>
             <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
         </section>
