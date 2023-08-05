@@ -7,7 +7,7 @@
     <title>Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages,最后绑定自己的域名</title>
     <link>http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/</link>
     <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
-    <author>Pi_Alpha</author>
+    <author>PiAlpha</author>
     <guid>http://example.org/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/</guid>
     <description><![CDATA[1 Hugo建立个人博客 1.1 安装Hugo和git 打开Terminal,输入sudo apt-get install hugo，等待安装完成后，输入hugo version查看版]]></description>
 </item>
