@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Handheld devices - Category - PiAlpha</title>
+        <link>http://example.org/categories/handheld-devices/</link>
+        <description>Handheld devices - Category - PiAlpha</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 07 Aug 2023 19:30:15 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/handheld-devices/" rel="self" type="application/rss+xml" /><item>
+    <title>Unihertz Jelly Star 大屏时代的另类小巧(开箱过程)</title>
+    <link>http://example.org/posts/unihertz_jelly_star_%E5%A4%A7%E5%B1%8F%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%B0%8F%E5%B7%A7/</link>
+    <pubDate>Mon, 07 Aug 2023 19:30:15 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/posts/unihertz_jelly_star_%E5%A4%A7%E5%B1%8F%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%B0%8F%E5%B7%A7/</guid>
+    <description><![CDATA[1 千篇一律的手机市场的另类 在 Motorola 和 Nokia 横行的年代，各式各眼的手机眼花缭乱。但是从 Iphone 的的横空出世，手机同质化越来越严重。尤其是当下，都是直板大屏幕]]></description>
+</item>
+</channel>
+</rss>
