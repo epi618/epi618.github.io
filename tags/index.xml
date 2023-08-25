@@ -3,7 +3,31 @@
         <title>Tags - Tag - PiAlpha</title>
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Cypherpunk</title>
+    <link>http://example.org/tags/cypherpunk/</link>
+    <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/cypherpunk/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>匿名</title>
+    <link>http://example.org/tags/%E5%8C%BF%E5%90%8D/</link>
+    <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/%E5%8C%BF%E5%90%8D/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>隐私</title>
+    <link>http://example.org/tags/%E9%9A%90%E7%A7%81/</link>
+    <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/%E9%9A%90%E7%A7%81/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Bootloader</title>
     <link>http://example.org/tags/bootloader/</link>
     <pubDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</pubDate>
@@ -57,14 +81,6 @@
     <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
     <author>PiAlpha</author>
     <guid>http://example.org/tags/hugo/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Ubuntu</title>
-    <link>http://example.org/tags/ubuntu/</link>
-    <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/ubuntu/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
