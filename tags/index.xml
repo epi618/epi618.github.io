@@ -3,7 +3,23 @@
         <title>Tags - Tag - PiAlpha</title>
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Pixel 3a</title>
+    <link>http://example.org/tags/pixel-3a/</link>
+    <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/pixel-3a/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Ubuntu touch</title>
+    <link>http://example.org/tags/ubuntu-touch/</link>
+    <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/ubuntu-touch/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Cypherpunk</title>
     <link>http://example.org/tags/cypherpunk/</link>
     <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
@@ -65,22 +81,6 @@
     <pubDate>Mon, 07 Aug 2023 19:30:15 &#43;0800</pubDate>
     <author>PiAlpha</author>
     <guid>http://example.org/tags/unihertz/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Github Pages</title>
-    <link>http://example.org/tags/github-pages/</link>
-    <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/github-pages/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Hugo</title>
-    <link>http://example.org/tags/hugo/</link>
-    <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/hugo/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
