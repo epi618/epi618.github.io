@@ -3,13 +3,17 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>http://example.org/about/about/</loc></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2023-10-15T19:40:06&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/</loc><lastmod>2023-12-31T19:01:03&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/geo/</loc><lastmod>2023-12-31T19:01:03&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/geology/</loc><lastmod>2023-12-31T19:01:03&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/geophysics/</loc><lastmod>2023-12-31T19:01:03&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2023-12-31T19:01:03&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2023-12-31T19:01:03&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/</loc><lastmod>2023-12-31T19:01:03&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/the_great_geo/</loc><lastmod>2023-12-31T19:01:03&#43;08:00</lastmod></url><url>
             <loc>http://example.org/categories/handheld-devices/</loc><lastmod>2023-10-15T19:40:06&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2023-10-15T19:40:06&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/pixel-3a/</loc><lastmod>2023-10-15T19:40:06&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/flashubuntutouchonpixel3a/</loc><lastmod>2023-10-15T19:40:06&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2023-10-15T19:40:06&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2023-10-15T19:40:06&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/ubuntu-touch/</loc><lastmod>2023-10-15T19:40:06&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/a-cypherpunks-manifesto/</loc><lastmod>2023-08-25T21:23:26&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/cypherpunk/</loc><lastmod>2023-08-25T21:23:26&#43;08:00</lastmod></url><url>

@@ -3,7 +3,15 @@
         <title>Categories - Category - PiAlpha</title>
         <link>http://example.org/categories/</link>
         <description>Categories - Category - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>GEO</title>
+    <link>http://example.org/categories/geo/</link>
+    <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/categories/geo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Handheld devices</title>
     <link>http://example.org/categories/handheld-devices/</link>
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>

@@ -3,7 +3,15 @@
         <title>All Posts - PiAlpha</title>
         <link>http://example.org/posts/</link>
         <description>All Posts | PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>最伟大的地学 （模仿周董的歌曲：最伟大的作品）</title>
+    <link>http://example.org/posts/the_great_geo/</link>
+    <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/posts/the_great_geo/</guid>
+    <description><![CDATA[此文是拙劣的模仿，但包含了些许地质学，地球物理学以及地理学名词。献给新年的期许和野望。 魏格纳穿着病装 望着图案 想着大西洋两旁 思绪飘扬 几内亚湾 被]]></description>
+</item>
+<item>
     <title>Pixel 3a刷入Ubuntu touch</title>
     <link>http://example.org/posts/flashubuntutouchonpixel3a/</link>
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>

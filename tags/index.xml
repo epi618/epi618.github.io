@@ -3,7 +3,23 @@
         <title>Tags - Tag - PiAlpha</title>
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Geology</title>
+    <link>http://example.org/tags/geology/</link>
+    <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/geology/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Geophysics</title>
+    <link>http://example.org/tags/geophysics/</link>
+    <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/geophysics/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Pixel 3a</title>
     <link>http://example.org/tags/pixel-3a/</link>
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
@@ -65,22 +81,6 @@
     <pubDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</pubDate>
     <author>PiAlpha</author>
     <guid>http://example.org/tags/magisk/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Android</title>
-    <link>http://example.org/tags/android/</link>
-    <pubDate>Mon, 07 Aug 2023 19:30:15 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/android/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Unihertz</title>
-    <link>http://example.org/tags/unihertz/</link>
-    <pubDate>Mon, 07 Aug 2023 19:30:15 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/unihertz/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
