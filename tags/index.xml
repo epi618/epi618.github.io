@@ -1,86 +1,86 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - PiAlpha</title>
-        <link>http://example.org/tags/</link>
+        <link>https://314729.xyz/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</lastBuildDate><atom:link href="https://314729.xyz/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Anna’s Archive</title>
-    <link>http://example.org/tags/annas-archive/</link>
+    <link>https://314729.xyz/tags/annas-archive/</link>
     <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/annas-archive/</guid>
+    <guid>https://314729.xyz/tags/annas-archive/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Library Genesis</title>
-    <link>http://example.org/tags/library-genesis/</link>
+    <link>https://314729.xyz/tags/library-genesis/</link>
     <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/library-genesis/</guid>
+    <guid>https://314729.xyz/tags/library-genesis/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Sci-Hub</title>
-    <link>http://example.org/tags/sci-hub/</link>
+    <link>https://314729.xyz/tags/sci-hub/</link>
     <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/sci-hub/</guid>
+    <guid>https://314729.xyz/tags/sci-hub/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Z-library</title>
-    <link>http://example.org/tags/z-library/</link>
+    <link>https://314729.xyz/tags/z-library/</link>
     <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/z-library/</guid>
+    <guid>https://314729.xyz/tags/z-library/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Geology</title>
-    <link>http://example.org/tags/geology/</link>
+    <link>https://314729.xyz/tags/geology/</link>
     <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/geology/</guid>
+    <guid>https://314729.xyz/tags/geology/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Geophysics</title>
-    <link>http://example.org/tags/geophysics/</link>
+    <link>https://314729.xyz/tags/geophysics/</link>
     <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/geophysics/</guid>
+    <guid>https://314729.xyz/tags/geophysics/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Pixel 3a</title>
-    <link>http://example.org/tags/pixel-3a/</link>
+    <link>https://314729.xyz/tags/pixel-3a/</link>
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/pixel-3a/</guid>
+    <guid>https://314729.xyz/tags/pixel-3a/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Ubuntu touch</title>
-    <link>http://example.org/tags/ubuntu-touch/</link>
+    <link>https://314729.xyz/tags/ubuntu-touch/</link>
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/ubuntu-touch/</guid>
+    <guid>https://314729.xyz/tags/ubuntu-touch/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Cypherpunk</title>
-    <link>http://example.org/tags/cypherpunk/</link>
+    <link>https://314729.xyz/tags/cypherpunk/</link>
     <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/cypherpunk/</guid>
+    <guid>https://314729.xyz/tags/cypherpunk/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>匿名</title>
-    <link>http://example.org/tags/%E5%8C%BF%E5%90%8D/</link>
+    <link>https://314729.xyz/tags/%E5%8C%BF%E5%90%8D/</link>
     <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://example.org/tags/%E5%8C%BF%E5%90%8D/</guid>
+    <guid>https://314729.xyz/tags/%E5%8C%BF%E5%90%8D/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
