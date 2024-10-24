@@ -3,7 +3,39 @@
         <title>Tags - Tag - PiAlpha</title>
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Anna’s Archive</title>
+    <link>http://example.org/tags/annas-archive/</link>
+    <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/annas-archive/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Library Genesis</title>
+    <link>http://example.org/tags/library-genesis/</link>
+    <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/library-genesis/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Sci-Hub</title>
+    <link>http://example.org/tags/sci-hub/</link>
+    <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/sci-hub/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Z-library</title>
+    <link>http://example.org/tags/z-library/</link>
+    <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/tags/z-library/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Geology</title>
     <link>http://example.org/tags/geology/</link>
     <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
@@ -49,38 +81,6 @@
     <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
     <author>PiAlpha</author>
     <guid>http://example.org/tags/%E5%8C%BF%E5%90%8D/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>隐私</title>
-    <link>http://example.org/tags/%E9%9A%90%E7%A7%81/</link>
-    <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/%E9%9A%90%E7%A7%81/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Bootloader</title>
-    <link>http://example.org/tags/bootloader/</link>
-    <pubDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/bootloader/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Jelly Star</title>
-    <link>http://example.org/tags/jelly-star/</link>
-    <pubDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/jelly-star/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Magisk</title>
-    <link>http://example.org/tags/magisk/</link>
-    <pubDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://example.org/tags/magisk/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

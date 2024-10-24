@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Sci-Hub - Tag - PiAlpha</title>
+        <link>http://example.org/tags/sci-hub/</link>
+        <description>Sci-Hub - Tag - PiAlpha</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/sci-hub/" rel="self" type="application/rss+xml" /><item>
+    <title>Shadow_library</title>
+    <link>http://example.org/posts/shadow_library/</link>
+    <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://example.org/posts/shadow_library/</guid>
+    <description><![CDATA[1 Sci-hub Sci-Hub 是当今科学界最具争议性的项目。Sci-hub的目标是 免费并且不受限制地 提供所有科学知识, 你可以在该网站下载到很多学如论文。前提是，你能]]></description>
+</item>
+</channel>
+</rss>
