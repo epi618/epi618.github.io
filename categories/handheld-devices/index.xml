@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Handheld devices - Category - PiAlpha</title>
+        <title>Handheld Devices - Category - PiAlpha</title>
         <link>https://314729.xyz/categories/handheld-devices/</link>
-        <description>Handheld devices - Category - PiAlpha</description>
+        <description>Handheld Devices - Category - PiAlpha</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</lastBuildDate><atom:link href="https://314729.xyz/categories/handheld-devices/" rel="self" type="application/rss+xml" /><item>
     <title>Pixel 3a刷入Ubuntu touch</title>
     <link>https://314729.xyz/posts/flashubuntutouchonpixel3a/</link>

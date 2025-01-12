@@ -3,7 +3,15 @@
         <title>Tags - Tag - PiAlpha</title>
         <link>https://314729.xyz/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 18 Dec 2024 21:58:52 &#43;0800</lastBuildDate><atom:link href="https://314729.xyz/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</lastBuildDate><atom:link href="https://314729.xyz/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Geology</title>
+    <link>https://314729.xyz/tags/geology/</link>
+    <pubDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://314729.xyz/tags/geology/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>情感，emotion</title>
     <link>https://314729.xyz/tags/%E6%83%85%E6%84%9Femotion/</link>
     <pubDate>Wed, 18 Dec 2024 21:58:52 &#43;0800</pubDate>
@@ -36,19 +44,11 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Z-library</title>
+    <title>Z-Library</title>
     <link>https://314729.xyz/tags/z-library/</link>
     <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
     <author>PiAlpha</author>
     <guid>https://314729.xyz/tags/z-library/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Geology</title>
-    <link>https://314729.xyz/tags/geology/</link>
-    <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>https://314729.xyz/tags/geology/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -68,7 +68,7 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Ubuntu touch</title>
+    <title>Ubuntu Touch</title>
     <link>https://314729.xyz/tags/ubuntu-touch/</link>
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
     <author>PiAlpha</author>

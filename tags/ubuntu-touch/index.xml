@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Ubuntu touch - Tag - PiAlpha</title>
+        <title>Ubuntu Touch - Tag - PiAlpha</title>
         <link>https://314729.xyz/tags/ubuntu-touch/</link>
-        <description>Ubuntu touch - Tag - PiAlpha</description>
+        <description>Ubuntu Touch - Tag - PiAlpha</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</lastBuildDate><atom:link href="https://314729.xyz/tags/ubuntu-touch/" rel="self" type="application/rss+xml" /><item>
     <title>Pixel 3a刷入Ubuntu touch</title>
     <link>https://314729.xyz/posts/flashubuntutouchonpixel3a/</link>
