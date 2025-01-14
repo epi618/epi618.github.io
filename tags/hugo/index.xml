@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hugo - Tag - PiAlpha</title>
-        <link>https://314729.xyz/tags/hugo/</link>
+        <link>https://blog.314729.xyz/tags/hugo/</link>
         <description>Hugo - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</lastBuildDate><atom:link href="https://314729.xyz/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/hugo/" rel="self" type="application/rss+xml" /><item>
     <title>Ubuntu系统下利用Hugo搭建个人博客，并托管到Github Pages,最后绑定自己的域名</title>
-    <link>https://314729.xyz/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/</link>
+    <link>https://blog.314729.xyz/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/</link>
     <pubDate>Thu, 03 Aug 2023 22:49:36 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>https://314729.xyz/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/</guid>
+    <guid>https://blog.314729.xyz/posts/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0github/</guid>
     <description><![CDATA[1 Hugo建立个人博客 1.1 安装Hugo和git 打开Terminal,输入sudo apt-get install hugo，等待安装完成后，输入hugo version查看版]]></description>
 </item>
 </channel>
