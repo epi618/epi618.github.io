@@ -3,20 +3,28 @@
         <title>Tags - Tag - PiAlpha</title>
         <link>https://blog.314729.xyz/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 01 May 2025 17:02:48 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Emotion</title>
+    <link>https://blog.314729.xyz/tags/emotion/</link>
+    <pubDate>Thu, 01 May 2025 17:02:48 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://blog.314729.xyz/tags/emotion/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>情感</title>
+    <link>https://blog.314729.xyz/tags/%E6%83%85%E6%84%9F/</link>
+    <pubDate>Thu, 01 May 2025 17:02:48 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://blog.314729.xyz/tags/%E6%83%85%E6%84%9F/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Geology</title>
     <link>https://blog.314729.xyz/tags/geology/</link>
     <pubDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</pubDate>
     <author>PiAlpha</author>
     <guid>https://blog.314729.xyz/tags/geology/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>情感，emotion</title>
-    <link>https://blog.314729.xyz/tags/%E6%83%85%E6%84%9Femotion/</link>
-    <pubDate>Wed, 18 Dec 2024 21:58:52 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/tags/%E6%83%85%E6%84%9Femotion/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -73,14 +81,6 @@
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
     <author>PiAlpha</author>
     <guid>https://blog.314729.xyz/tags/ubuntu-touch/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Cypherpunk</title>
-    <link>https://blog.314729.xyz/tags/cypherpunk/</link>
-    <pubDate>Fri, 25 Aug 2023 21:23:26 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/tags/cypherpunk/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

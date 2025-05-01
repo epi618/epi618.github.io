@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Dream/梦幻 - Category - PiAlpha</title>
-        <link>https://blog.314729.xyz/categories/dream/%E6%A2%A6%E5%B9%BB/</link>
-        <description>Dream/梦幻 - Category - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 01 May 2025 17:02:48 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/categories/dream/%E6%A2%A6%E5%B9%BB/" rel="self" type="application/rss+xml" /><item>
+        <title>情感 - Tag - PiAlpha</title>
+        <link>https://blog.314729.xyz/tags/%E6%83%85%E6%84%9F/</link>
+        <description>情感 - Tag - PiAlpha</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 01 May 2025 17:02:48 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/%E6%83%85%E6%84%9F/" rel="self" type="application/rss+xml" /><item>
     <title>悸动</title>
     <link>https://blog.314729.xyz/posts/%E6%82%B8%E5%8A%A8/</link>
     <pubDate>Thu, 01 May 2025 17:02:48 &#43;0800</pubDate>
