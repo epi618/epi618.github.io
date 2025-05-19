@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>U - Tag - PiAlpha</title>
+        <link>http://localhost:1313/tags/u/</link>
+        <description>U - Tag - PiAlpha</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 19 May 2025 17:16:14 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/u/" rel="self" type="application/rss+xml" /><item>
+    <title>Ubuntu安装RTX 5060 TI驱动及其相关配置</title>
+    <link>http://localhost:1313/posts/ubuntu/</link>
+    <pubDate>Mon, 19 May 2025 17:16:14 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>http://localhost:1313/posts/ubuntu/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
