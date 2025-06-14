@@ -1,86 +1,86 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - PiAlpha</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://blog.314729.xyz/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 19 May 2025 17:16:14 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Jun 2025 16:24:54 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Etrex</title>
+    <link>https://blog.314729.xyz/tags/etrex/</link>
+    <pubDate>Sat, 14 Jun 2025 16:24:54 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://blog.314729.xyz/tags/etrex/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Garmin</title>
+    <link>https://blog.314729.xyz/tags/garmin/</link>
+    <pubDate>Sat, 14 Jun 2025 16:24:54 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://blog.314729.xyz/tags/garmin/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>GPS</title>
+    <link>https://blog.314729.xyz/tags/gps/</link>
+    <pubDate>Sat, 14 Jun 2025 16:24:54 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://blog.314729.xyz/tags/gps/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Linux</title>
-    <link>http://localhost:1313/tags/linux/</link>
+    <link>https://blog.314729.xyz/tags/linux/</link>
     <pubDate>Mon, 19 May 2025 17:16:14 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/linux/</guid>
+    <guid>https://blog.314729.xyz/tags/linux/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>RTX5060TI</title>
-    <link>http://localhost:1313/tags/rtx5060ti/</link>
+    <link>https://blog.314729.xyz/tags/rtx5060ti/</link>
     <pubDate>Mon, 19 May 2025 17:16:14 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/rtx5060ti/</guid>
+    <guid>https://blog.314729.xyz/tags/rtx5060ti/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Ubuntu</title>
-    <link>http://localhost:1313/tags/ubuntu/</link>
+    <link>https://blog.314729.xyz/tags/ubuntu/</link>
     <pubDate>Mon, 19 May 2025 17:16:14 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/ubuntu/</guid>
+    <guid>https://blog.314729.xyz/tags/ubuntu/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Emotion</title>
-    <link>http://localhost:1313/tags/emotion/</link>
+    <link>https://blog.314729.xyz/tags/emotion/</link>
     <pubDate>Thu, 01 May 2025 17:02:48 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/emotion/</guid>
+    <guid>https://blog.314729.xyz/tags/emotion/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>情感</title>
-    <link>http://localhost:1313/tags/%E6%83%85%E6%84%9F/</link>
+    <link>https://blog.314729.xyz/tags/%E6%83%85%E6%84%9F/</link>
     <pubDate>Thu, 01 May 2025 17:02:48 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/%E6%83%85%E6%84%9F/</guid>
+    <guid>https://blog.314729.xyz/tags/%E6%83%85%E6%84%9F/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Geology</title>
-    <link>http://localhost:1313/tags/geology/</link>
+    <link>https://blog.314729.xyz/tags/geology/</link>
     <pubDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/geology/</guid>
+    <guid>https://blog.314729.xyz/tags/geology/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Anna’s Archive</title>
-    <link>http://localhost:1313/tags/annas-archive/</link>
+    <link>https://blog.314729.xyz/tags/annas-archive/</link>
     <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/annas-archive/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Library Genesis</title>
-    <link>http://localhost:1313/tags/library-genesis/</link>
-    <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/library-genesis/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Sci-Hub</title>
-    <link>http://localhost:1313/tags/sci-hub/</link>
-    <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/sci-hub/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Z-Library</title>
-    <link>http://localhost:1313/tags/z-library/</link>
-    <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://localhost:1313/tags/z-library/</guid>
+    <guid>https://blog.314729.xyz/tags/annas-archive/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
