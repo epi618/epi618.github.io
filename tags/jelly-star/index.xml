@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Jelly Star - Tag - PiAlpha</title>
-        <link>https://blog.314729.xyz/tags/jelly-star/</link>
+        <link>http://localhost:1313/tags/jelly-star/</link>
         <description>Jelly Star - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/jelly-star/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/jelly-star/" rel="self" type="application/rss+xml" /><item>
     <title>Unihertz Jelly Star 解锁 Bootloader 和刷入 Magisk 获取 Root 权限并安装相关模块</title>
-    <link>https://blog.314729.xyz/posts/unihertz_jelly_star_%E8%A7%A3%E9%94%81bootloader%E5%92%8C%E5%88%B7%E5%85%A5magisk%E8%8E%B7%E5%8F%96root%E6%9D%83%E9%99%90%E5%B9%B6%E5%AE%89%E8%A3%85%E7%9B%B8%E5%85%B3%E6%A8%A1%E5%9D%97/</link>
+    <link>http://localhost:1313/posts/unihertz_jelly_star_%E8%A7%A3%E9%94%81bootloader%E5%92%8C%E5%88%B7%E5%85%A5magisk%E8%8E%B7%E5%8F%96root%E6%9D%83%E9%99%90%E5%B9%B6%E5%AE%89%E8%A3%85%E7%9B%B8%E5%85%B3%E6%A8%A1%E5%9D%97/</link>
     <pubDate>Tue, 15 Aug 2023 15:19:34 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/posts/unihertz_jelly_star_%E8%A7%A3%E9%94%81bootloader%E5%92%8C%E5%88%B7%E5%85%A5magisk%E8%8E%B7%E5%8F%96root%E6%9D%83%E9%99%90%E5%B9%B6%E5%AE%89%E8%A3%85%E7%9B%B8%E5%85%B3%E6%A8%A1%E5%9D%97/</guid>
+    <guid>http://localhost:1313/posts/unihertz_jelly_star_%E8%A7%A3%E9%94%81bootloader%E5%92%8C%E5%88%B7%E5%85%A5magisk%E8%8E%B7%E5%8F%96root%E6%9D%83%E9%99%90%E5%B9%B6%E5%AE%89%E8%A3%85%E7%9B%B8%E5%85%B3%E6%A8%A1%E5%9D%97/</guid>
     <description><![CDATA[Jelly Star 解锁 Bootloader 本文的操作均在 Ubuntu 操作系统下进行。首先安装ADB，打开Terminal,输入命令sudo apt-get install android-sdk-platform-tools 等待安装完成。然后打开手机 依次操作，S]]></description>
 </item>
 <item>
     <title>Unihertz Jelly Star 大屏时代的另类小巧(开箱过程)</title>
-    <link>https://blog.314729.xyz/posts/unihertz_jelly_star_%E5%A4%A7%E5%B1%8F%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%B0%8F%E5%B7%A7/</link>
+    <link>http://localhost:1313/posts/unihertz_jelly_star_%E5%A4%A7%E5%B1%8F%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%B0%8F%E5%B7%A7/</link>
     <pubDate>Mon, 07 Aug 2023 19:30:15 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/posts/unihertz_jelly_star_%E5%A4%A7%E5%B1%8F%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%B0%8F%E5%B7%A7/</guid>
+    <guid>http://localhost:1313/posts/unihertz_jelly_star_%E5%A4%A7%E5%B1%8F%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%B0%8F%E5%B7%A7/</guid>
     <description><![CDATA[1 千篇一律的手机市场的另类 在 Motorola 和 Nokia 横行的年代，各式各眼的手机眼花缭乱。但是从 Iphone 的的横空出世，手机同质化越来越严重。尤其是当下，都是直板大屏幕]]></description>
 </item>
 </channel>

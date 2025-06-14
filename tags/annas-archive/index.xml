@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Anna’s Archive - Tag - PiAlpha</title>
-        <link>https://blog.314729.xyz/tags/annas-archive/</link>
+        <link>http://localhost:1313/tags/annas-archive/</link>
         <description>Anna’s Archive - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/annas-archive/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/annas-archive/" rel="self" type="application/rss+xml" /><item>
     <title>Shadow_library</title>
-    <link>https://blog.314729.xyz/posts/shadow_library/</link>
+    <link>http://localhost:1313/posts/shadow_library/</link>
     <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/posts/shadow_library/</guid>
+    <guid>http://localhost:1313/posts/shadow_library/</guid>
     <description><![CDATA[1 Sci-hub Sci-Hub 是当今科学界最具争议性的项目。Sci-hub的目标是 免费并且不受限制地 提供所有科学知识, 你可以在该网站下载到很多学如论文。前提是，你能]]></description>
 </item>
 </channel>

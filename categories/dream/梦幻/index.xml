@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Dream/梦幻 - Category - PiAlpha</title>
-        <link>https://blog.314729.xyz/categories/dream/%E6%A2%A6%E5%B9%BB/</link>
+        <link>http://localhost:1313/categories/dream/%E6%A2%A6%E5%B9%BB/</link>
         <description>Dream/梦幻 - Category - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 01 May 2025 17:02:48 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/categories/dream/%E6%A2%A6%E5%B9%BB/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 01 May 2025 17:02:48 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/dream/%E6%A2%A6%E5%B9%BB/" rel="self" type="application/rss+xml" /><item>
     <title>悸动</title>
-    <link>https://blog.314729.xyz/posts/%E6%82%B8%E5%8A%A8/</link>
+    <link>http://localhost:1313/posts/%E6%82%B8%E5%8A%A8/</link>
     <pubDate>Thu, 01 May 2025 17:02:48 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/posts/%E6%82%B8%E5%8A%A8/</guid>
+    <guid>http://localhost:1313/posts/%E6%82%B8%E5%8A%A8/</guid>
     <description><![CDATA[也许每个人的一生中，总会出现那个让你怦然心动而又满心欢喜的人，但是到头来，又因为各种阴差阳错，而未能在一起，留下了无尽的遗憾，这可能也是一种]]></description>
 </item>
 <item>
     <title>大梦一场（Unrealistic_dream）</title>
-    <link>https://blog.314729.xyz/posts/unrealistic_dream/</link>
+    <link>http://localhost:1313/posts/unrealistic_dream/</link>
     <pubDate>Wed, 18 Dec 2024 21:58:52 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/posts/unrealistic_dream/</guid>
+    <guid>http://localhost:1313/posts/unrealistic_dream/</guid>
     <description><![CDATA[初遇 在那遥远的西域 曾见过大地的凄凉 五彩山诉说着它色彩斑斓的过往 白色的骆驼 总是在眺望 抑或是在听呼呼作响的冷风 暴雨的夜晚里 与她相遇 为这枯燥的生活]]></description>
 </item>
 </channel>
