@@ -3,7 +3,31 @@
         <title>Tags - Tag - PiAlpha</title>
         <link>https://blog.314729.xyz/tags/</link>
         <description>Tags - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 15 Jan 2026 11:14:47 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 16 Jan 2026 23:13:20 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>电影</title>
+    <link>https://blog.314729.xyz/tags/%E7%94%B5%E5%BD%B1/</link>
+    <pubDate>Fri, 16 Jan 2026 23:13:20 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://blog.314729.xyz/tags/%E7%94%B5%E5%BD%B1/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>资源</title>
+    <link>https://blog.314729.xyz/tags/%E8%B5%84%E6%BA%90/</link>
+    <pubDate>Fri, 16 Jan 2026 23:13:20 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://blog.314729.xyz/tags/%E8%B5%84%E6%BA%90/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>音乐</title>
+    <link>https://blog.314729.xyz/tags/%E9%9F%B3%E4%B9%90/</link>
+    <pubDate>Fri, 16 Jan 2026 23:13:20 &#43;0800</pubDate>
+    <author>PiAlpha</author>
+    <guid>https://blog.314729.xyz/tags/%E9%9F%B3%E4%B9%90/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>历史</title>
     <link>https://blog.314729.xyz/tags/%E5%8E%86%E5%8F%B2/</link>
     <pubDate>Thu, 15 Jan 2026 11:14:47 &#43;0800</pubDate>
@@ -57,30 +81,6 @@
     <pubDate>Mon, 19 May 2025 17:16:14 &#43;0800</pubDate>
     <author>PiAlpha</author>
     <guid>https://blog.314729.xyz/tags/linux/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>RTX5060TI</title>
-    <link>https://blog.314729.xyz/tags/rtx5060ti/</link>
-    <pubDate>Mon, 19 May 2025 17:16:14 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/tags/rtx5060ti/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Ubuntu</title>
-    <link>https://blog.314729.xyz/tags/ubuntu/</link>
-    <pubDate>Mon, 19 May 2025 17:16:14 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/tags/ubuntu/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Emotion</title>
-    <link>https://blog.314729.xyz/tags/emotion/</link>
-    <pubDate>Thu, 01 May 2025 17:02:48 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/tags/emotion/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
