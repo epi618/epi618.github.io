@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Academic/GEO - Category - PiAlpha</title>
-        <link>https://blog.314729.xyz/categories/academic/geo/</link>
+        <link>http://localhost:1313/categories/academic/geo/</link>
         <description>Academic/GEO - Category - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/categories/academic/geo/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/academic/geo/" rel="self" type="application/rss+xml" /><item>
     <title>Essentials_of_Geology</title>
-    <link>https://blog.314729.xyz/posts/essentials_of_geology/</link>
+    <link>http://localhost:1313/posts/essentials_of_geology/</link>
     <pubDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/posts/essentials_of_geology/</guid>
+    <guid>http://localhost:1313/posts/essentials_of_geology/</guid>
     <description><![CDATA[1 The Earth in Context The geocentric model of the Universe placed the Earth at the center of the Universe. The heliocentric model placed the Sun at the center.
 The Earth is one of the eight planets orbiting the Sun.This Solar System lies on the outer edge of the Milky Way galaxy. The Universe contains hundreds of billions of galaxies.
 The red shift of light distant galaxies led to the expanding Universe theory.]]></description>

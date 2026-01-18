@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>历史 - Tag - PiAlpha</title>
-        <link>https://blog.314729.xyz/tags/%E5%8E%86%E5%8F%B2/</link>
+        <link>http://localhost:1313/tags/%E5%8E%86%E5%8F%B2/</link>
         <description>历史 - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 15 Jan 2026 11:14:47 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/%E5%8E%86%E5%8F%B2/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 15 Jan 2026 11:14:47 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%8E%86%E5%8F%B2/" rel="self" type="application/rss+xml" /><item>
     <title>中国文人为何而死-读《中国文人的非正常死亡》有感</title>
-    <link>https://blog.314729.xyz/posts/%E4%B8%AD%E5%9B%BD%E6%96%87%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%BB/</link>
+    <link>http://localhost:1313/posts/%E4%B8%AD%E5%9B%BD%E6%96%87%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%BB/</link>
     <pubDate>Thu, 15 Jan 2026 11:14:47 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>https://blog.314729.xyz/posts/%E4%B8%AD%E5%9B%BD%E6%96%87%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%BB/</guid>
+    <guid>http://localhost:1313/posts/%E4%B8%AD%E5%9B%BD%E6%96%87%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%BB/</guid>
     <description><![CDATA[中国的文人是一个特殊的群体，依附于权力者多，但是亦有些放荡不羁者，但他们都为此付出了代价。用现在流行的话说，出来混迟早是要还的。有些文人的死]]></description>
 </item>
 </channel>
