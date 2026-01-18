@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Pixel 3a - Tag - PiAlpha</title>
-        <link>http://localhost:1313/tags/pixel-3a/</link>
+        <link>https://blog.314729.xyz/tags/pixel-3a/</link>
         <description>Pixel 3a - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/pixel-3a/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/pixel-3a/" rel="self" type="application/rss+xml" /><item>
     <title>Pixel 3a刷入Ubuntu touch</title>
-    <link>http://localhost:1313/posts/flashubuntutouchonpixel3a/</link>
+    <link>https://blog.314729.xyz/posts/flashubuntutouchonpixel3a/</link>
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/flashubuntutouchonpixel3a/</guid>
+    <guid>https://blog.314729.xyz/posts/flashubuntutouchonpixel3a/</guid>
     <description><![CDATA[为什么要刷入 Ubuntu Touch 系统？ 还不是因为那个什么FanZha应用，该程序也许打着为你好的旗号，做些不为人知的事情。有些地方不安装该应用，不让孩子上学]]></description>
 </item>
 </channel>

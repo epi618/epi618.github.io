@@ -1,90 +1,90 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>PiAlpha</title>
-        <link>http://localhost:1313/</link>
+        <link>https://blog.314729.xyz/</link>
         <description>This is my CyberSpace</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 16 Jan 2026 23:13:20 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://blog.314729.xyz/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>一些电影音乐网站(movie_and_music)</title>
-    <link>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99movie_and_music/</link>
+    <link>https://blog.314729.xyz/posts/%E4%B8%80%E4%BA%9B%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99movie_and_music/</link>
     <pubDate>Fri, 16 Jan 2026 23:13:20 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99movie_and_music/</guid>
+    <guid>https://blog.314729.xyz/posts/%E4%B8%80%E4%BA%9B%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99movie_and_music/</guid>
     <description><![CDATA[1 The Pirate Bay 海盗湾（英语：The Pirate Bay，缩写：TPB）是一个专门存储、分类及搜索Bittorrent种子文件及磁力链接的网站，由瑞典的民间反著]]></description>
 </item>
 <item>
     <title>中国文人为何而死-读《中国文人的非正常死亡》有感</title>
-    <link>http://localhost:1313/posts/%E4%B8%AD%E5%9B%BD%E6%96%87%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%BB/</link>
+    <link>https://blog.314729.xyz/posts/%E4%B8%AD%E5%9B%BD%E6%96%87%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%BB/</link>
     <pubDate>Thu, 15 Jan 2026 11:14:47 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/%E4%B8%AD%E5%9B%BD%E6%96%87%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%BB/</guid>
+    <guid>https://blog.314729.xyz/posts/%E4%B8%AD%E5%9B%BD%E6%96%87%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%BB/</guid>
     <description><![CDATA[中国的文人是一个特殊的群体，依附于权力者多，但是亦有些放荡不羁者，但他们都为此付出了代价。用现在流行的话说，出来混迟早是要还的。有些文人的死]]></description>
 </item>
 <item>
     <title>给破损的Garmin etrex20 手持机更换外屏幕和按键</title>
-    <link>http://localhost:1313/posts/replace_the_front_cover_with_garmin_etrex_20/</link>
+    <link>https://blog.314729.xyz/posts/replace_the_front_cover_with_garmin_etrex_20/</link>
     <pubDate>Sat, 14 Jun 2025 16:24:54 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/replace_the_front_cover_with_garmin_etrex_20/</guid>
+    <guid>https://blog.314729.xyz/posts/replace_the_front_cover_with_garmin_etrex_20/</guid>
     <description><![CDATA[Garmin etrex系列的手持gps，具有小巧，坚固，可更换电池的特性，其采用2节5号电池供电。 但是经过多年的使用，该手持机也暴露出一些问题，比如强]]></description>
 </item>
 <item>
     <title>某人的 Ubuntu 24.04 GNU/Linux 平台配置</title>
-    <link>http://localhost:1313/posts/%E6%9F%90%E4%BA%BA%E7%9A%84-ubuntu-24.04-gnu-linux-%E5%B9%B3%E5%8F%B0%E9%85%8D%E7%BD%AE/</link>
+    <link>https://blog.314729.xyz/posts/%E6%9F%90%E4%BA%BA%E7%9A%84-ubuntu-24.04-gnu-linux-%E5%B9%B3%E5%8F%B0%E9%85%8D%E7%BD%AE/</link>
     <pubDate>Mon, 19 May 2025 17:16:14 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/%E6%9F%90%E4%BA%BA%E7%9A%84-ubuntu-24.04-gnu-linux-%E5%B9%B3%E5%8F%B0%E9%85%8D%E7%BD%AE/</guid>
+    <guid>https://blog.314729.xyz/posts/%E6%9F%90%E4%BA%BA%E7%9A%84-ubuntu-24.04-gnu-linux-%E5%B9%B3%E5%8F%B0%E9%85%8D%E7%BD%AE/</guid>
     <description><![CDATA[1 给ubuntu平台上的RTX 5060 Ti安装显卡驱动 1.1 更新内核 sudo add-apt-repository ppa:cappelikan/ppa #添加PPA sudo apt update &amp;&amp; sudo apt full-upgrade #更新 sudo apt install -y mainline #安装mainline mainline list | less #查]]></description>
 </item>
 <item>
     <title>悸动</title>
-    <link>http://localhost:1313/posts/%E6%82%B8%E5%8A%A8/</link>
+    <link>https://blog.314729.xyz/posts/%E6%82%B8%E5%8A%A8/</link>
     <pubDate>Thu, 01 May 2025 17:02:48 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/%E6%82%B8%E5%8A%A8/</guid>
+    <guid>https://blog.314729.xyz/posts/%E6%82%B8%E5%8A%A8/</guid>
     <description><![CDATA[也许每个人的一生中，总会出现那个让你怦然心动而又满心欢喜的人，但是到头来，又因为各种阴差阳错，而未能在一起，留下了无尽的遗憾，这可能也是一种]]></description>
 </item>
 <item>
     <title>Essentials_of_Geology</title>
-    <link>http://localhost:1313/posts/essentials_of_geology/</link>
+    <link>https://blog.314729.xyz/posts/essentials_of_geology/</link>
     <pubDate>Sun, 12 Jan 2025 11:19:43 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/essentials_of_geology/</guid>
+    <guid>https://blog.314729.xyz/posts/essentials_of_geology/</guid>
     <description><![CDATA[1 The Earth in Context The geocentric model of the Universe placed the Earth at the center of the Universe. The heliocentric model placed the Sun at the center.
 The Earth is one of the eight planets orbiting the Sun.This Solar System lies on the outer edge of the Milky Way galaxy. The Universe contains hundreds of billions of galaxies.
 The red shift of light distant galaxies led to the expanding Universe theory.]]></description>
 </item>
 <item>
     <title>大梦一场（Unrealistic_dream）</title>
-    <link>http://localhost:1313/posts/unrealistic_dream/</link>
+    <link>https://blog.314729.xyz/posts/unrealistic_dream/</link>
     <pubDate>Wed, 18 Dec 2024 21:58:52 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/unrealistic_dream/</guid>
+    <guid>https://blog.314729.xyz/posts/unrealistic_dream/</guid>
     <description><![CDATA[初遇 在那遥远的西域 曾见过大地的凄凉 五彩山诉说着它色彩斑斓的过往 白色的骆驼 总是在眺望 抑或是在听呼呼作响的冷风 暴雨的夜晚里 与她相遇 为这枯燥的生活]]></description>
 </item>
 <item>
     <title>Shadow_library</title>
-    <link>http://localhost:1313/posts/shadow_library/</link>
+    <link>https://blog.314729.xyz/posts/shadow_library/</link>
     <pubDate>Thu, 24 Oct 2024 19:09:50 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/shadow_library/</guid>
+    <guid>https://blog.314729.xyz/posts/shadow_library/</guid>
     <description><![CDATA[1 Sci-hub Sci-Hub 是当今科学界最具争议性的项目。Sci-hub的目标是 免费并且不受限制地 提供所有科学知识, 你可以在该网站下载到很多学如论文。前提是，你能]]></description>
 </item>
 <item>
     <title>最伟大的地学 （模仿周董的歌曲：最伟大的作品）</title>
-    <link>http://localhost:1313/posts/the_great_geo/</link>
+    <link>https://blog.314729.xyz/posts/the_great_geo/</link>
     <pubDate>Sun, 31 Dec 2023 19:01:03 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/the_great_geo/</guid>
+    <guid>https://blog.314729.xyz/posts/the_great_geo/</guid>
     <description><![CDATA[此文是拙劣的模仿，但包含了些许地质学，地球物理学以及地理学名词。献给新年的期许和野望。 魏格纳穿着病装 望着图案 想着大西洋两旁 思绪飘扬 几内亚湾 被]]></description>
 </item>
 <item>
     <title>Pixel 3a刷入Ubuntu touch</title>
-    <link>http://localhost:1313/posts/flashubuntutouchonpixel3a/</link>
+    <link>https://blog.314729.xyz/posts/flashubuntutouchonpixel3a/</link>
     <pubDate>Sun, 15 Oct 2023 19:40:06 &#43;0800</pubDate>
     <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/flashubuntutouchonpixel3a/</guid>
+    <guid>https://blog.314729.xyz/posts/flashubuntutouchonpixel3a/</guid>
     <description><![CDATA[为什么要刷入 Ubuntu Touch 系统？ 还不是因为那个什么FanZha应用，该程序也许打着为你好的旗号，做些不为人知的事情。有些地方不安装该应用，不让孩子上学]]></description>
 </item>
 </channel>
