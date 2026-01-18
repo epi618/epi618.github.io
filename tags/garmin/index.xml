@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Garmin - Tag - PiAlpha</title>
-        <link>http://localhost:1313/tags/garmin/</link>
-        <description>Garmin - Tag - PiAlpha</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Jun 2025 16:24:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/garmin/" rel="self" type="application/rss+xml" /><item>
-    <title>给破损的Garmin etrex20 手持机更换外屏幕和按键</title>
-    <link>http://localhost:1313/posts/replace_the_front_cover_with_garmin_etrex_20/</link>
-    <pubDate>Sat, 14 Jun 2025 16:24:54 &#43;0800</pubDate>
-    <author>PiAlpha</author>
-    <guid>http://localhost:1313/posts/replace_the_front_cover_with_garmin_etrex_20/</guid>
-    <description><![CDATA[Garmin etrex系列的手持gps，具有小巧，坚固，可更换电池的特性，其采用2节5号电池供电。 但是经过多年的使用，该手持机也暴露出一些问题，比如强]]></description>
-</item>
-</channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Garmin - Tag - PiAlpha</title><link>https://blog.314729.xyz/tags/garmin/</link><description>Garmin - Tag - PiAlpha</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Jun 2025 16:24:54 +0800</lastBuildDate><atom:link href="https://blog.314729.xyz/tags/garmin/" rel="self" type="application/rss+xml"/><item><title>给破损的Garmin etrex20 手持机更换外屏幕和按键</title><link>https://blog.314729.xyz/posts/replace_the_front_cover_with_garmin_etrex_20/</link><pubDate>Sat, 14 Jun 2025 16:24:54 +0800</pubDate><author>PiAlpha</author><guid>https://blog.314729.xyz/posts/replace_the_front_cover_with_garmin_etrex_20/</guid><description>Garmin etrex系列的手持gps，具有小巧，坚固，可更换电池的特性，其采用2节5号电池供电。 但是经过多年的使用，该手持机也暴露出一些问题，比如强</description></item></channel></rss>
